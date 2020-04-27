@@ -1,0 +1,7 @@
+#profPic {
+    background: url("../../assets/images/profile.jpg") no-repeat;
+    background-size: 100%;
+    height: 12rem;
+    width: 20rem;
+    margin: 1rem 1rem 1rem 1rem;
+}
