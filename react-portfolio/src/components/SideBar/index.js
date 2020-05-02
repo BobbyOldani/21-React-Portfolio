@@ -2,7 +2,7 @@ import React from "react";
 import Pdf from "../../assets/Pdf/bootcampresume.pdf";
 import "./style.css";
 
-function AppGallery() {
+function SideBar() {
     return (
             <div className="col-sm-2" id="profile">
                 <div className="row">
@@ -41,4 +41,4 @@ function AppGallery() {
 }
 
 
-export default AppGallery;
+export default SideBar;

@@ -1,0 +1,19 @@
+#jumbopic {
+    background-image: url("../../assets/images/lift.JPG");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    stroke: black;
+    stroke-width: 5;
+    font-family: 'Muli', sans-serif;
+}
+
+#jumbotext {
+    font-size: 55pt;
+}
+
+#transOverlay {
+    background-color: rgba(0,0,0,.4);
+}

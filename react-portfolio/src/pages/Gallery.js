@@ -1,12 +1,11 @@
 import React from "react";
-import ProfileCard from "../components/ProfileCard";
-import AppGallery from "../components/AppGallery";
+import AppCard from "../components/AppCard";
+
 
 function Gallery() {
     return (
         <div>
-        <ProfileCard />
-        <AppGallery />
+        <AppCard />
         </div>
     )
 }
