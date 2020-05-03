@@ -27,15 +27,6 @@ function SideBar() {
                 <div className="row">
                     <a href="mailto:bobbyoldani2@gmail.com"><button type="button" id="resume" className="btn btn-outline-success profInfo">Email <i className="fas fa-envelope"></i></button></a>
                 </div>
-                <div className="row">
-                    <button type="button" id="quoteBtn" className="btn btn-outline-success profInfo">Motivational Quote!</button>
-                </div>
-                <div className="row">
-                    <div id="quote"></div>
-                </div>
-                <div className="row">
-                    <div id="author"></div>
-                </div>
             </div>
     );
 }
