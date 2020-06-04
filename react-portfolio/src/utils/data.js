@@ -53,11 +53,11 @@ const data = [
 
 {
     "id": 5,
-    "title": "Burger App",
-    "technology": "HTML/CSS, JavaScript/jQuery, Node, Express, Handlebars",
-    "image": require('../assets/images/burgerapp.png'),
-    "github": "https://github.com/BobbyOldani/burger",
-    "deployment": "https://boiling-sea-63231.herokuapp.com/",
+    "title": "Rambler",
+    "technology": "HTML/CSS, JavaScript, Node, React, MongoDb",
+    "image": require('../assets/images/rambler.png'),
+    "github": "https://github.com/dhens/Rambler",
+    "deployment": "https://gorambler.herokuapp.com/",
     "collapse": "collapse100",
     "hashcollapse": "#collapse100",
     "heading": "heading100"

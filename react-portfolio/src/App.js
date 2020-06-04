@@ -3,7 +3,7 @@ import Wrapper from "./components/Wrapper";
 import SideBar from "./components/SideBar"; 
 import Main from "./components/Main";
 import './App.css';
- 
+
 
 
 function App() {
